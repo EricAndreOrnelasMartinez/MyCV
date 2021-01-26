@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    margin: 20px;
+    padding: 10px;
+}
+.container{
+    background-image: url(fondo3.png);
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.me{
+    position: relative;
+    left: 42%;
+    top: 15%;
+    border-radius: 120px;
+}
+
+h1{
+    position: relative;
+    left: 21%;
+    font-size: 62px;
+    color: bisque;
+}
+
+.exp{
+    background-color: rgb(16, 5, 117);
+    color: white;
+    width: 38%;
+    margin: 20px;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    border: 2px black solid;
+    border-radius: 10px;
+    overflow: hidden;
+    float: left;
+}
+.aptitudes{
+    background-color:  rgb(16, 5, 117);
+    width: 38%;
+}
