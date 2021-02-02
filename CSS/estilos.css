@@ -3,6 +3,11 @@
         margin: 0%;
         padding: 0%;
     }
+    .unique{
+        color: bisque;
+        text-align: center;
+        font-size: 30px;
+    }
     header{
         margin: 20px;
         padding: 10px;
@@ -182,6 +187,8 @@
     .me{
         align-content: center;
         border-radius: 120px;
+        position: relative;
+        left: 10%;
     }
     h1{
         align-content: center;
@@ -202,6 +209,19 @@
         background-color: rgb(16, 5, 117);
         color: white;
         border: 2px black solid;
+    }
+    .des{
+        border: 2px black solid;
+        border-radius: 8px;
+        background-color: purple;
+        font-family: 'Times New Roman', Times, serif;
+        margin: 4px;
+        font-size: 18px;
+    }
+    
+    .des:hover{
+        color: white;
+        background-color: black;
     }
     
 }
