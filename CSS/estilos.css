@@ -33,6 +33,10 @@
         left: 21%;
         font-size: 62px;
         color: bisque;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
     }
     
     .exp{
@@ -43,7 +47,7 @@
         left: 5%;
         margin: 20px;
         padding: 10px;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -56,7 +60,7 @@
         left: 5%;
         margin: 20px;
         padding: 10px;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -70,7 +74,7 @@
         bottom: 110px;
         margin: 20px;
         padding: 10.5px;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -87,7 +91,7 @@
         left: 5%;
         margin: 20px;
         padding: 10px;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -108,7 +112,7 @@
         bottom: -80px;
         margin: 20px;
         padding: 10px;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -122,7 +126,7 @@
         bottom: -280px;
         margin: 20px;
         padding: 10px;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -135,7 +139,7 @@
         padding: 5px;
         left: 56.5%;
         bottom: -370px;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -147,7 +151,7 @@
         padding: 5px;
         left: 56.5%;
         bottom: -465px;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         border: 2px black solid;
         border-radius: 10px;
     }
@@ -156,7 +160,7 @@
         border: 2px black solid;
         border-radius: 8px;
         background-color: purple;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Arial, Helvetica, sans-serif;
         margin: 4px;
         font-size: 18px;
     }
@@ -195,6 +199,7 @@
         font-size: 40px;
         text-align: center;
         color: bisque;
+        font-family: Arial, Helvetica, sans-serif;
     }
     div{
         width: 100%;
@@ -202,6 +207,7 @@
         background-color: rgb(16, 5, 117);
         color: white;
         border:2px black solid;
+        font-family: Arial, Helvetica, sans-serif;
     }
     nav{
         width: 100%;
@@ -209,6 +215,7 @@
         background-color: rgb(16, 5, 117);
         color: white;
         border: 2px black solid;
+        font-family: Arial, Helvetica, sans-serif;
     }
     .des{
         border: 2px black solid;
@@ -217,6 +224,7 @@
         font-family: 'Times New Roman', Times, serif;
         margin: 4px;
         font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
         color: white;
     }
     
