@@ -2,6 +2,10 @@
     *{
         margin: 0%;
         padding: 0%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    button{
+        border: 2px black solid;
     }
     .unique{
         color: bisque;
@@ -21,148 +25,92 @@
         margin: 0 0;
     }
     .me{
-        position: relative;
-        left: 42%;
-        top: 15%;
+        margin-left: 42%;
         width: 250;
         border-radius: 120px;
     }
-    
+    nav{
+        padding: 30px;
+        background-color: rgb(86, 86, 241);
+        border-radius: 15px;
+    }
     h1{
-        position: relative;
-        left: 21%;
+        margin-left: 7%;
         font-size: 62px;
         color: bisque;
         font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
     }
-    h2{
-        font-family: Arial, Helvetica, sans-serif;
+    .p1{
+        display: flex;
     }
-    
-    .exp{
-        position: relative;
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 38%;
-        left: 5%;
-        margin: 20px;
-        padding: 10px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+    .none{
+        list-style: none;
     }
-    
-    .formacion{
-        position: relative;
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 38%;
-        left: 5%;
-        margin: 20px;
-        padding: 10px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+    .p1 li{
+        width: 100%;
     }
-    
     .aptitudes{
-        position: absolute;
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 38%;
-        left: 55%;
-        bottom: 110px;
-        margin: 20px;
-        padding: 10.5px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+        margin: auto;
+        width: 80%;
     }
-    
-    .list{
-        padding: 10px;
+    .exp{
+        width: 80%;
+        margin-left: 6%;
     }
-    
-    .habilidades{
-        position: relative;
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 38%;
-        left: 5%;
-        margin: 20px;
-        padding: 10px;
-        font-family:Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+    .p2{
+        display: flex;
+        margin-top: 20px;
     }
-    
-    .list2{
-        padding: 10px;
+    .p2 li{
+        width: 100%;
     }
-    
-    .list3{
-        padding: 10px;
+    .formacion{
+        margin-left: 6%;
+        width: 80%;
     }
     .pro{
-        position: absolute;
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 38%;
-        left: 55%;
-        bottom: -80px;
-        margin: 20px;
-        padding: 10px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+        width: 80%;
+        margin:auto;
     }
-    
+    .p3{
+        display: flex;
+        margin-top: 20px;
+    }
+    .p3 li{
+        width: 100%;
+    }
     .contact{
-        position: absolute;
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 38%;
-        left: 55%;
-        bottom: -280px;
-        margin: 20px;
-        padding: 10px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+        margin-left: 6%;
+        width: 80%;
     }
-    
+    .habilidades{
+        width: 80%;
+        margin:auto;
+    }
     .social{
-        background-color: rgb(16, 5, 117);
-        color: white;
+        margin-left: 55%;
+        background-color:  rgb(86, 86, 241);
         width: 20%;
-        position: absolute;
         padding: 5px;
-        left: 56.5%;
-        bottom: -370px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+        border-radius: 15px;
     }
-    footer{
-        background-color: rgb(16, 5, 117);
-        color: white;
-        width: 15%;
-        position: absolute;
+    .down{
+        margin: 20px;
+        margin-left: 55%;
+        width: 20%;
         padding: 5px;
-        left: 56.5%;
-        bottom: -465px;
-        font-family: Arial, Helvetica, sans-serif;
-        border: 2px black solid;
-        border-radius: 10px;
+        border-radius: 15px;
     }
-    
     .des{
         border: 2px black solid;
         border-radius: 8px;
         background-color: purple;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Times New Roman', Times, serif;
         margin: 4px;
         font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
     }
     
     .des:hover{
